@@ -39,7 +39,7 @@ Each session was recorded and is available for participants to revisit.
 | Day 5 | **Fourth and fifth problems** | [<span style='color:blue'>Aymen Noor</span>](https://www.linkedin.com/in/aymen-noor/) | [Watch Here](https://www.facebook.com/iCodeguru/videos/689020396810848) |
 
 ## 📢 Workshop Poster
-![Workshop Poster](https://github.com)
+![Workshop Poster](https://github.com/AyeshaAndleeb/UC-Berkley-Coding-Competition/blob/main/workshop_poster.jpeg)
 
 This workshop provided students with the necessary insights and skills to participate confidently in the UC Berkeley Calico Contest. We encourage all attendees to apply their learnings and strive for excellence.
 
